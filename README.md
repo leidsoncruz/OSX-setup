@@ -1,1 +1,3 @@
-# config
+# OSX Setup
+
+
