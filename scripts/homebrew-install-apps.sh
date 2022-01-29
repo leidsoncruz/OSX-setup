@@ -10,6 +10,7 @@ brew install yarn
 brew install zsh
 brew install zsh-completions
 
+brew install --cask docker
 brew install --cask microsoft-remote-desktop
 brew install --cask google-chrome
 brew install --cask iterm2
